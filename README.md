@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:7c3aed&height=200&section=header&text=Muhammed%20Asil%20Pari&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=I%20build%20things%20people%20actually%20use&descAlignY=58&descSize=18" width="100%" alt="Header"/>
 
 <a href="https://github.com/asil-eng">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+developer+from+Kochi%2C+India;3D+multiplayer+worlds+with+Three.js;SaaS+apps+with+Next.js+%2B+PostgreSQL;Hackathon+builder+%E2%80%94+ship+it+overnight" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-stack+developer+from+Trivandrum%2C+India;3D+multiplayer+worlds+with+Three.js;SaaS+apps+with+Next.js+%2B+PostgreSQL;Hackathon+builder+%E2%80%94+ship+it+overnight" alt="Typing intro"/>
 </a>
 
 <br/>
